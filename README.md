@@ -8,8 +8,12 @@ Given two dates, return the business days between them.
 
 - [Install](#install)
 - [Usage](#usage)
+- [Methods](#methods)
+  - [calc `(<Date> start, <Date> end[, <String> timezone])`](#calc-date-start-date-end-string-timezone)
+- [Tests](#tests)
 - [Developing](#developing)
   - [Requirements](#requirements)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
