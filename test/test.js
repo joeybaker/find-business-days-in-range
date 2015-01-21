@@ -8,7 +8,7 @@ var test = require('prova')
   , satMorning = (new Date('Sat May 31 2014 07:46:12 GMT-0700 (PDT)')).valueOf()
   , nextMonMorning = (new Date('Mon Apr 28 2014 9:00:00 GMT-0700 (PDT)')).valueOf()
 
-test('lib/getableTime/find-business-days-in-range', function findBusinessDatesInRangeTest(t){
+test('find-business-days-in-range#calc', function findBusinessDatesInRangeTest(t){
   t.plan(5)
 
   t.equal(
