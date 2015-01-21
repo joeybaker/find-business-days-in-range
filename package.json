@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "name": "find-business-days-in-range",
   "description": "Given two dates, return the business days between them.",
   "author": {
